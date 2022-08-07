@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-07T12:37:54 IST" name="Default suite" finished-at="2022-08-07T12:38:07 IST" duration-ms="13742">
+    <groups>
+    </groups>
+    <test started-at="2022-08-07T12:37:54 IST" name="Default test" finished-at="2022-08-07T12:38:07 IST" duration-ms="13742">
+      <class name="pack1.VerifyaddTocart">
+        <test-method is-config="true" signature="A()[pri:0, instance:pack1.VerifyaddTocart@342c38f8]" started-at="2022-08-07T12:37:54 IST" name="A" finished-at="2022-08-07T12:38:05 IST" duration-ms="11329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method is-config="true" signature="B()[pri:0, instance:pack1.VerifyaddTocart@342c38f8]" started-at="2022-08-07T12:38:05 IST" name="B" finished-at="2022-08-07T12:38:05 IST" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method signature="D()[pri:0, instance:pack1.VerifyaddTocart@342c38f8]" started-at="2022-08-07T12:38:05 IST" name="D" finished-at="2022-08-07T12:38:06 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D -->
+        <test-method is-config="true" signature="c()[pri:0, instance:pack1.VerifyaddTocart@342c38f8]" started-at="2022-08-07T12:38:06 IST" name="c" finished-at="2022-08-07T12:38:06 IST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method is-config="true" signature="B()[pri:0, instance:pack1.VerifyaddTocart@342c38f8]" started-at="2022-08-07T12:38:06 IST" name="B" finished-at="2022-08-07T12:38:06 IST" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method signature="E()[pri:0, instance:pack1.VerifyaddTocart@342c38f8]" started-at="2022-08-07T12:38:06 IST" name="E" finished-at="2022-08-07T12:38:06 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E -->
+        <test-method is-config="true" signature="c()[pri:0, instance:pack1.VerifyaddTocart@342c38f8]" started-at="2022-08-07T12:38:06 IST" name="c" finished-at="2022-08-07T12:38:06 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method is-config="true" signature="B()[pri:0, instance:pack1.VerifyaddTocart@342c38f8]" started-at="2022-08-07T12:38:06 IST" name="B" finished-at="2022-08-07T12:38:07 IST" duration-ms="557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method signature="F()[pri:0, instance:pack1.VerifyaddTocart@342c38f8]" started-at="2022-08-07T12:38:07 IST" name="F" finished-at="2022-08-07T12:38:07 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- F -->
+        <test-method is-config="true" signature="c()[pri:0, instance:pack1.VerifyaddTocart@342c38f8]" started-at="2022-08-07T12:38:07 IST" name="c" finished-at="2022-08-07T12:38:07 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+      </class> <!-- pack1.VerifyaddTocart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
